@@ -1,0 +1,6 @@
+C:\Users\Gus Vermeulen\source\repos\CalculatorApp\CalculatorAppLogic\bin\Debug\CalculatorAppLogic.dll
+C:\Users\Gus Vermeulen\source\repos\CalculatorApp\CalculatorAppLogic\bin\Debug\CalculatorAppLogic.pdb
+C:\Users\Gus Vermeulen\source\repos\CalculatorApp\CalculatorAppLogic\obj\Debug\CalculatorAppLogic.csprojAssemblyReference.cache
+C:\Users\Gus Vermeulen\source\repos\CalculatorApp\CalculatorAppLogic\obj\Debug\CalculatorAppLogic.csproj.CoreCompileInputs.cache
+C:\Users\Gus Vermeulen\source\repos\CalculatorApp\CalculatorAppLogic\obj\Debug\CalculatorAppLogic.dll
+C:\Users\Gus Vermeulen\source\repos\CalculatorApp\CalculatorAppLogic\obj\Debug\CalculatorAppLogic.pdb

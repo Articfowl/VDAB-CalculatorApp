@@ -1,0 +1,13 @@
+C:\Users\Gus Vermeulen\source\repos\CalculatorApp\CalculatorAppUI\bin\Debug\CalculatorAppUI.exe.config
+C:\Users\Gus Vermeulen\source\repos\CalculatorApp\CalculatorAppUI\bin\Debug\CalculatorAppUI.exe
+C:\Users\Gus Vermeulen\source\repos\CalculatorApp\CalculatorAppUI\bin\Debug\CalculatorAppUI.pdb
+C:\Users\Gus Vermeulen\source\repos\CalculatorApp\CalculatorAppUI\bin\Debug\CalculatorAppLogic.dll
+C:\Users\Gus Vermeulen\source\repos\CalculatorApp\CalculatorAppUI\bin\Debug\CalculatorAppLogic.pdb
+C:\Users\Gus Vermeulen\source\repos\CalculatorApp\CalculatorAppUI\obj\Debug\CalculatorAppUI.csprojAssemblyReference.cache
+C:\Users\Gus Vermeulen\source\repos\CalculatorApp\CalculatorAppUI\obj\Debug\CalculatorAppUI.Form1.resources
+C:\Users\Gus Vermeulen\source\repos\CalculatorApp\CalculatorAppUI\obj\Debug\CalculatorAppUI.Properties.Resources.resources
+C:\Users\Gus Vermeulen\source\repos\CalculatorApp\CalculatorAppUI\obj\Debug\CalculatorAppUI.csproj.GenerateResource.cache
+C:\Users\Gus Vermeulen\source\repos\CalculatorApp\CalculatorAppUI\obj\Debug\CalculatorAppUI.csproj.CoreCompileInputs.cache
+C:\Users\Gus Vermeulen\source\repos\CalculatorApp\CalculatorAppUI\obj\Debug\CalculatorAppUI.csproj.CopyComplete
+C:\Users\Gus Vermeulen\source\repos\CalculatorApp\CalculatorAppUI\obj\Debug\CalculatorAppUI.exe
+C:\Users\Gus Vermeulen\source\repos\CalculatorApp\CalculatorAppUI\obj\Debug\CalculatorAppUI.pdb

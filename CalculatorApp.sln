@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28917.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculatorAppUI", "CalculatorAppUI\CalculatorAppUI.csproj", "{3CECEEB0-F175-4BEB-B01C-079EA841B750}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculatorAppLogic", "CalculatorAppLogic\CalculatorAppLogic.csproj", "{EBC64067-9F33-42E8-96BD-B0388CA24751}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3CECEEB0-F175-4BEB-B01C-079EA841B750}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CECEEB0-F175-4BEB-B01C-079EA841B750}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CECEEB0-F175-4BEB-B01C-079EA841B750}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CECEEB0-F175-4BEB-B01C-079EA841B750}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EBC64067-9F33-42E8-96BD-B0388CA24751}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBC64067-9F33-42E8-96BD-B0388CA24751}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBC64067-9F33-42E8-96BD-B0388CA24751}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBC64067-9F33-42E8-96BD-B0388CA24751}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1126456E-F0BC-4321-84DB-A31A754DB0C4}
+	EndGlobalSection
+EndGlobal
